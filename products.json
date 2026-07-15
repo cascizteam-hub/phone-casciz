@@ -1,1 +1,10 @@
-{"products": []}
+{
+  "products": [
+    {
+      "name": "metal case",
+      "price": 1000,
+      "category": "glass",
+      "image": "/images/uploads/screenshot-2026-07-15-at-8.46.18 pm.png"
+    }
+  ]
+}
